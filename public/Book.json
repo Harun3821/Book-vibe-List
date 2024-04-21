@@ -1,0 +1,222 @@
+
+
+[
+    {
+      "bookId": "001",
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image_url": "https://i.ibb.co/Dg1zKbk/226.jpg",
+      "review": "A classic tale of racial injustice and moral growth in a small Southern town.",
+      "description": "Discover urban living at its finest in this modern loft apartment. With high ceilings, exposed brick walls, and industrial-chic design elements, this loft exudes contemporary charm. The open-concept layout seamlessly blends living, dining, and kitchen areas, perfect for entertaining guests. Large windows flood the space with natural light, offering sweeping views of the city skyline. Retreat to the spacious bedroom, featuring a walk-in closet and en-suite bathroom with sleek fixtures. Located in a vibrant neighborhood, this loft provides easy access to trendy restaurants, cafes, and cultural attractions.",
+      "totalPages": 281,
+       "rating": 4.7,
+        "category": "Thriller",
+        "tags": "Suspense  Psychological",
+        "publisher": "Simon & Schuster",
+        "yearOfPublishing": 2019
+      
+      
+    
+    },
+    {
+      "bookId": "002",
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image_url": "https://i.ibb.co/0nBxft5/1157.jpg",
+      "review": "A dystopian novel depicting a totalitarian regime and the struggle for individual freedom.",
+      "description": "Discover urban living at its finest in this modern loft apartment. With high ceilings, exposed brick walls, and industrial-chic design elements, this loft exudes contemporary charm. The open-concept layout seamlessly blends living, dining, and kitchen areas, perfect for entertaining guests. Large windows flood the space with natural light, offering sweeping views of the city skyline. Retreat to the spacious bedroom, featuring a walk-in closet and en-suite bathroom with sleek fixtures. Located in a vibrant neighborhood, this loft provides easy access to trendy restaurants, cafes, and cultural attractions.",
+      "totalPages": 328,
+      "rating": 4.2,
+      "category": "Science Fiction",
+      "tags": ["Dystopian", "Aliens"],
+      "publisher": "Tor Books",
+      "yearOfPublishing": 2021
+    },
+    {
+      "bookId": "003",
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image_url": "https://i.ibb.co/vkMwN4n/7492664.jpg",
+      "review": "A story of the Jazz Age and the American Dream.",
+      "description": "Discover urban living at its finest in this modern loft apartment. With high ceilings, exposed brick walls, and industrial-chic design elements, this loft exudes contemporary charm. The open-concept layout seamlessly blends living, dining, and kitchen areas, perfect for entertaining guests. Large windows flood the space with natural light, offering sweeping views of the city skyline. Retreat to the spacious bedroom, featuring a walk-in closet and en-suite bathroom with sleek fixtures. Located in a vibrant neighborhood, this loft provides easy access to trendy restaurants, cafes, and cultural attractions.",
+      "totalPages": 180,
+      "rating": 4.5,
+     "category": "Fantasy",
+     "tags": ["Adventure", "Magic"],
+     "publisher": "Hachette Book Group",
+     "yearOfPublishing": 2018
+     
+    },
+
+    {
+      "bookId": "004",
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image_url": "https://i.ibb.co/WKwBbT8/19021605.jpg",
+      "review": "A romantic comedy of manners.",
+      "description": "Discover urban living at its finest in this modern loft apartment. With high ceilings, exposed brick walls, and industrial-chic design elements, this loft exudes contemporary charm. The open-concept layout seamlessly blends living, dining, and kitchen areas, perfect for entertaining guests. Large windows flood the space with natural light, offering sweeping views of the city skyline. Retreat to the spacious bedroom, featuring a walk-in closet and en-suite bathroom with sleek fixtures. Located in a vibrant neighborhood, this loft provides easy access to trendy restaurants, cafes, and cultural attractions.",
+      "totalPages": 279,
+      "rating": 4.2,
+      "category": "Science Fiction",
+      "tags": ["Dystopian", "Aliens"],
+      "publisher": "Tor Books",
+      "yearOfPublishing": 2021
+    },
+    {
+      "bookId": "005",
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image_url": "https://i.ibb.co/ngSbB94/english-books-blue-background.jpg",
+      "review": "A story of alienation and teenage angst.",
+      "description": "Discover urban living at its finest in this modern loft apartment. With high ceilings, exposed brick walls, and industrial-chic design elements, this loft exudes contemporary charm. The open-concept layout seamlessly blends living, dining, and kitchen areas, perfect for entertaining guests. Large windows flood the space with natural light, offering sweeping views of the city skyline. Retreat to the spacious bedroom, featuring a walk-in closet and en-suite bathroom with sleek fixtures. Located in a vibrant neighborhood, this loft provides easy access to trendy restaurants, cafes, and cultural attractions.",
+     "totalPages": 224,
+     "rating": 4.8,
+     "category": "Historical Fiction",
+     "tags": ["War", "Family Saga"],
+     "publisher": "Penguin Books",
+     "yearOfPublishing": 2016
+
+    },
+    {
+      "bookId": "006",
+      "bookName": "To the Lighthouse",
+      "author": "Virginia Woolf",
+      "image_url": "https://i.ibb.co/SKG52k7/literature-love-concept.jpg",
+      "review": "A pioneering work of modernist fiction.",
+      "description": "Discover urban living at its finest in this modern loft apartment. With high ceilings, exposed brick walls, and industrial-chic design elements, this loft exudes contemporary charm. The open-concept layout seamlessly blends living, dining, and kitchen areas, perfect for entertaining guests. Large windows flood the space with natural light, offering sweeping views of the city skyline. Retreat to the spacious bedroom, featuring a walk-in closet and en-suite bathroom with sleek fixtures. Located in a vibrant neighborhood, this loft provides easy access to trendy restaurants, cafes, and cultural attractions.",
+      "totalPages": 209,
+      "rating": 4.3,
+      "category": "Mystery",
+      "tags": ["Detective", "Murder"],
+      "publisher": "Random House",
+      "yearOfPublishing": 2020
+    },
+    {
+      "bookId": "007",
+      "bookName": "Moby-Dick",
+      "author": "Herman Melville",
+      "image_url": "https://i.ibb.co/fv2wLwj/OJK9410.jpg",
+      "review": "An epic tale of obsession and revenge.",
+      "description": "Discover urban living at its finest in this modern loft apartment. With high ceilings, exposed brick walls, and industrial-chic design elements, this loft exudes contemporary charm. The open-concept layout seamlessly blends living, dining, and kitchen areas, perfect for entertaining guests. Large windows flood the space with natural light, offering sweeping views of the city skyline. Retreat to the spacious bedroom, featuring a walk-in closet and en-suite bathroom with sleek fixtures. Located in a vibrant neighborhood, this loft provides easy access to trendy restaurants, cafes, and cultural attractions.",
+      "totalPages": 624,
+      "rating": 4.9,
+      "category": "Horror",
+      "tags": ["Supernatural", "Gothic"],
+      "publisher": "Stephen King Books",
+      "yearOfPublishing": 2015
+    },
+    {
+      "bookId": "008",
+      "bookName": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "image_url": "https://i.ibb.co/TvpnkYz/ORJ9YV0.jpg",
+      "review": "A high-fantasy epic set in the fictional world of Middle-earth.",
+      "description": "Discover urban living at its finest in this modern loft apartment. With high ceilings, exposed brick walls, and industrial-chic design elements, this loft exudes contemporary charm. The open-concept layout seamlessly blends living, dining, and kitchen areas, perfect for entertaining guests. Large windows flood the space with natural light, offering sweeping views of the city skyline. Retreat to the spacious bedroom, featuring a walk-in closet and en-suite bathroom with sleek fixtures. Located in a vibrant neighborhood, this loft provides easy access to trendy restaurants, cafes, and cultural attractions.",
+      "totalPages": 1178,
+      "rating": 4.4,
+      "category": "Young Adult",
+      "tags": ["Coming of Age", "Friendship"],
+      "publisher": "Scholastic",
+      "yearOfPublishing": 2014
+    },
+    {
+      "bookId": "009",
+      "bookName": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "image_url": "https://i.ibb.co/sqZ3LnY/ORJA090.jpg",
+      "review": "A psychological thriller exploring guilt and redemption.",
+      "description": "Discover urban living at its finest in this modern loft apartment. With high ceilings, exposed brick walls, and industrial-chic design elements, this loft exudes contemporary charm. The open-concept layout seamlessly blends living, dining, and kitchen areas, perfect for entertaining guests. Large windows flood the space with natural light, offering sweeping views of the city skyline. Retreat to the spacious bedroom, featuring a walk-in closet and en-suite bathroom with sleek fixtures. Located in a vibrant neighborhood, this loft provides easy access to trendy restaurants, cafes, and cultural attractions.",
+      "totalPages": 551,
+      "rating": 4.7,
+      "category": "Biography",
+      "tags": ["Memoir", "Inspirational"],
+      "publisher": "Houghton Mifflin Harcourt",
+      "yearOfPublishing": 2013
+    },
+    {
+      "bookId": "010",
+      "bookName": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "image_url": "https://i.ibb.co/qnF5kFG/english-language-books-arrangement.jpg",
+      "review": "A philosophical novel about vanity and the consequences of aestheticism.",
+      "description": "Discover urban living at its finest in this modern loft apartment. With high ceilings, exposed brick walls, and industrial-chic design elements, this loft exudes contemporary charm. The open-concept layout seamlessly blends living, dining, and kitchen areas, perfect for entertaining guests. Large windows flood the space with natural light, offering sweeping views of the city skyline. Retreat to the spacious bedroom, featuring a walk-in closet and en-suite bathroom with sleek fixtures. Located in a vibrant neighborhood, this loft provides easy access to trendy restaurants, cafes, and cultural attractions.",
+      "totalPages": 251,
+      "rating": 4.5,
+      "category": "Nonfiction",
+      "tags": ["Self-Help", "Motivation"],
+      "publisher": "Random House",
+      "yearOfPublishing": 2012
+    },
+    {
+      "bookId": "011",
+      "bookName": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "image_url": "https://i.ibb.co/dJDvsfQ/flat-lay-school-essentials-with-books-clock.jpg",
+      "review": "A tragic story of love and betrayal set in imperial Russia.",
+      "description": "Discover urban living at its finest in this modern loft apartment. With high ceilings, exposed brick walls, and industrial-chic design elements, this loft exudes contemporary charm. The open-concept layout seamlessly blends living, dining, and kitchen areas, perfect for entertaining guests. Large windows flood the space with natural light, offering sweeping views of the city skyline. Retreat to the spacious bedroom, featuring a walk-in closet and en-suite bathroom with sleek fixtures. Located in a vibrant neighborhood, this loft provides easy access to trendy restaurants, cafes, and cultural attractions.",
+      "totalPages": 864,
+      "rating": 4.6,
+      "category": "Cooking",
+      "tags": ["Recipes", "Healthy Eating"],
+      "publisher": "Food Network Books",
+      "yearOfPublishing": 2011
+    },
+    {
+      "bookId": "012",
+      "bookName": "Brave New World",
+      "author": "Aldous Huxley",
+      "image_url": "https://i.ibb.co/s31rqGb/pngwing-1-removebg-preview.png",
+      "review": "A dystopian novel depicting a future world controlled by technology and consumerism.",
+      "description": "Discover urban living at its finest in this modern loft apartment. With high ceilings, exposed brick walls, and industrial-chic design elements, this loft exudes contemporary charm. The open-concept layout seamlessly blends living, dining, and kitchen areas, perfect for entertaining guests. Large windows flood the space with natural light, offering sweeping views of the city skyline. Retreat to the spacious bedroom, featuring a walk-in closet and en-suite bathroom with sleek fixtures. Located in a vibrant neighborhood, this loft provides easy access to trendy restaurants, cafes, and cultural attractions.",
+      "totalPages": 288,
+      "rating": 4.8,
+      "category": "Travel",
+      "tags": ["Adventure", "Culture"],
+      "publisher": "Lonely Planet",
+      "yearOfPublishing": 2010
+    },
+    {
+      "bookId": "013",
+      "bookName": "Frankenstein",
+      "author": "Mary Shelley",
+      "image_url": "https://i.ibb.co/9pt0Z2F/english-books-blue-background-high-angle.jpg",
+      "review": "A gothic tale of scientific hubris and the consequences of playing God.",
+      "description": "Discover urban living at its finest in this modern loft apartment. With high ceilings, exposed brick walls, and industrial-chic design elements, this loft exudes contemporary charm. The open-concept layout seamlessly blends living, dining, and kitchen areas, perfect for entertaining guests. Large windows flood the space with natural light, offering sweeping views of the city skyline. Retreat to the spacious bedroom, featuring a walk-in closet and en-suite bathroom with sleek fixtures. Located in a vibrant neighborhood, this loft provides easy access to trendy restaurants, cafes, and cultural attractions.",
+      "totalPages": 280,
+      "rating": 4.2,
+      "category": "Poetry",
+      "tags": ["Modern", "Emotional"],
+      "publisher": "Penguin Classics",
+      "yearOfPublishing": 2009
+    },
+    {
+      "bookId": "014",
+      "bookName": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image_url": "https://i.ibb.co/w7tDZrq/4824032.jpg",
+      "review": "A fantasy novel about the journey of a hobbit to reclaim treasure guarded by a dragon.",
+      "description": "Discover urban living at its finest in this modern loft apartment. With high ceilings, exposed brick walls, and industrial-chic design elements, this loft exudes contemporary charm. The open-concept layout seamlessly blends living, dining, and kitchen areas, perfect for entertaining guests. Large windows flood the space with natural light, offering sweeping views of the city skyline. Retreat to the spacious bedroom, featuring a walk-in closet and en-suite bathroom with sleek fixtures. Located in a vibrant neighborhood, this loft provides easy access to trendy restaurants, cafes, and cultural attractions.",
+      "totalPages": 310,
+      "rating": 4.7,
+      "category": "Art",
+      "tags": ["Painting", "Sculpture"],
+      "publisher": "Thames & Hudson",
+      "yearOfPublishing": 2008
+    },
+    {
+      "bookId": "015",
+      "bookName": "The Odyssey",
+      "author": "Homer",
+      "image_url": "https://i.ibb.co/T86DKNK/three-books-near-bookshelf.jpg",
+      "review": "An ancient Greek epic poem attributed to Homer, recounting the adventures of Odysseus.",
+      "description": "Discover urban living at its finest in this modern loft apartment. With high ceilings, exposed brick walls, and industrial-chic design elements, this loft exudes contemporary charm. The open-concept layout seamlessly blends living, dining, and kitchen areas, perfect for entertaining guests. Large windows flood the space with natural light, offering sweeping views of the city skyline. Retreat to the spacious bedroom, featuring a walk-in closet and en-suite bathroom with sleek fixtures. Located in a vibrant neighborhood, this loft provides easy access to trendy restaurants, cafes, and cultural attractions.",
+      "totalPages": 442,
+      "rating": 4.5,
+      "category": "Business",
+      "tags": ["Entrepreneurship", "Finance"],
+      "publisher": "Harvard Business Review Press",
+      "yearOfPublishing": 2007
+
+    }
+  ]
+  

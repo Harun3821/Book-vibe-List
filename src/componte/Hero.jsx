@@ -11,7 +11,7 @@ const Hero = () => {
           <img src={bookimg} className="max-w-sm rounded-lg shadow-2xl" />
           <div className="space-y-6">
             <h1 className="text-5xl font-bold">Books to freshen up<br/> your bookshelf</h1>
-            <button className="btn  bg-green-400"> <Link to='/listed Books'>View The List</Link></button>
+            <button className="btn  bg-green-400"> <Link to={`/books/`}>View The List</Link></button>
           </div>
         </div>
       </div>

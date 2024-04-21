@@ -1,22 +1,26 @@
 import { createBrowserRouter } from "react-router-dom";
 import Root from "../MainRoot/Root";
 import Home from "../pgess/Home";
-import Listebook from "../pgess/Listebook";
-
+import Books from "../pgess/Books";
+import Book from "../pgess/Book";
 
 export const router = createBrowserRouter([
     {
-        path:'/',
-        element:<Root></Root>,
-        children:[
-            {
-               path:'/',
-               element:<Home></Home>,
-            },
-            {
-                path:'/listed Books',
-                element:<Listebook></Listebook>
-            }
-        ]
-    }
-])
+      path: '/',
+      element: <Root />,
+      children: [
+        {
+          path: '/',
+          element: <Home />,
+          loader: () => fetch('/Book.json'),
+        },
+        {
+          path: '/books/:bookId',
+          element: <Books />,
+          loader: ()=> fetch('/Book.json')
+  
+        },
+       
+      ],
+    },
+  ]);
